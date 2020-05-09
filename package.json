@@ -15,6 +15,9 @@
     "jest": "^25.5.0"
   },
   "dependencies": {
+    "@aws-cdk/aws-apigateway": "^1.38.0",
+    "@aws-cdk/aws-cognito": "^1.38.0",
+    "@aws-cdk/aws-lambda": "^1.38.0",
     "@aws-cdk/core": "1.36.1"
   }
 }
